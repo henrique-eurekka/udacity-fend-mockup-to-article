@@ -1,0 +1,26 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+
+I've learned to: 
+- pay attentions to details such as always closing a tag.
+- use indenting to make my code easier to read and more organized.
+- open and use the dev tools in both browsers
+- pay attention to tags that might do the same thing, such as <b> and <strong>, but have specific usages.
+
+* What has been easy?
+  
+
+- editing the text, as I've had some practice with it while doing other Udacity courses.
+- quick testing changes made in the editor via browser (which is way faster than, for example, running an android app via Android Studio).
+
+* What has been difficult?
+
+
+- this course's been altogether very simple.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+- I did a good amount of google searches to find for the exact tag to a certain goal.
